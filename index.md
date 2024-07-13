@@ -42,3 +42,6 @@ Dieser Verhaltenskodex gilt auf allen unmittelbar mit der ZaPF in Verbindung ste
 ## Änderungshistorie
 
 Verabschiedet am 13. November 2022 auf der ZaPF in Hamburg.
+
+Inhaltliche Änderungen wurden vorgenommen auf der:
+- Sommer-ZaPF 2024 in Kiel.
