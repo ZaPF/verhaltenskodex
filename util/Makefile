@@ -1,21 +1,21 @@
 # Dies ist das Makefile um die verschiedenen Publikationsversionen des Verhaltenskodex
-# der ZaPF zu erzeugen
+# der ZaPF
 
-all: html tex pdf wiki
+all: html wiki tex pdf
 
-html: ../verhaltenskodex.rst
-	rst2html ../verhaltenskodex.rst > ../versions/verhaltenskodex.html
+html: ../verhaltenskodex.md
+	pandoc --standalone --metadata-file=./metadata.yml --number-sections --output=../versions/verhaltenskodex.html ../verhaltenskodex.md
 
-tex: ../verhaltenskodex.rst
-	rst2latex --documentclass=scrartcl --documentoptions=12pt,oneside --stylesheet=./preamble.tex --embed-stylesheet --latex-preamble= ../verhaltenskodex.rst > ../versions/verhaltenskodex.tex
+tex: ../verhaltenskodex.md
+	pandoc --standalone --metadata-file=./metadata.yml --number-sections --to=latex --output=../versions/verhaltenskodex.tex ../verhaltenskodex.md
 
 pdf: ../versions/verhaltenskodex.tex
 	pdflatex -output-directory ../versions verhaltenskodex.tex
 	pdflatex -output-directory ../versions verhaltenskodex.tex
-	rm ../versions/verhaltenskodex.{log,aux,out}
+	rm -f ../versions/verhaltenskodex.{log,aux,out}
 
-wiki: ../verhaltenskodex.rst
-	./rst2wiki/rst2wiki.py ../verhaltenskodex.rst > ../versions/verhaltenskodex.wiki
+wiki: ../verhaltenskodex.md
+	pandoc --to=mediawiki --lua-filter=remove-attr.lua --output=../versions/verhaltenskodex.wiki ../verhaltenskodex.md
 
 clean:
 	rm ../versions/*
