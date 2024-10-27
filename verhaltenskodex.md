@@ -1,16 +1,11 @@
-========================
-Verhaltenskodex der ZaPF
-========================
+# Vorbemerkung
 
-Vorbemerkung
-------------
-
-“Die ZaPF ist ein freies Forum von und für Physikstudika. Sie bietet eine
-sichere Umgebung für Teilnehmika unabhängig ihrer Alter, Geschlechter, sexueller
-Identitäten oder Orientierungen, physischen Erscheinungen und Befähigungen,
-Studiengänge, Lebensumstände sowie politischer oder religiöser
-Überzeugungen. Aus diesem Grund kann diskriminierendes, ausschließendes und
-grenzüberschreitendes Verhalten in jeglicher Form nicht toleriert werden.”
+> Die ZaPF ist ein freies Forum von und für Physikstudika. Sie bietet eine
+> sichere Umgebung für Teilnehmika unabhängig ihrer Alter, Geschlechter, sexueller
+> Identitäten oder Orientierungen, physischen Erscheinungen und Befähigungen,
+> Studiengänge, Lebensumstände sowie politischer oder religiöser
+> Überzeugungen. Aus diesem Grund kann diskriminierendes, ausschließendes und
+> grenzüberschreitendes Verhalten in jeglicher Form nicht toleriert werden.
 
 Stellungnahme der Zusammenkunft aller Physik-Fachschaften gegen Diskriminierung,
 Ausschließung und grenzüberschreitendes Verhalten, "beschlossen"\* in Wien.
@@ -18,8 +13,7 @@ Ausschließung und grenzüberschreitendes Verhalten, "beschlossen"\* in Wien.
 \*Da das Abschlussplenumsprotokoll aus Wien verschwunden ist, kann der Beschluss
 historisch nicht belegt werden.
 
-Verhaltenskodex
----------------
+# Verhaltenskodex
 
 Wir wollen die ZaPF gemeinsam in einem respektvollen Miteinander gestalten. Wir
 wollen inklusive, diskriminierungsfreie und offene Kommunikation
@@ -53,8 +47,7 @@ für alle zu schaffen. Dies bedeutet insbesondere, dass:
 - wir nicht akzeptieren, wenn Menschen anstelle von Argumenten angegriffen
   werden.
 
-Umsetzung
----------
+# Umsetzung
 
 Das Umsetzen dieses Verhaltenskodexes liegt in der Verantwortung aller
 anwesender Personen; Teilnehmika, Helfika, Orga, etc. Wie in allem
@@ -66,8 +59,7 @@ können sie mit anderen Personen vermitteln, für dich bei der Tagungsleitung um
 Hilfe bitten oder andere, z.B. externe, Hilfe organisieren. Du kannst mit so
 vielen oder so wenigen Vertrauenspersonen sprechen, wie du möchtest.
 
-Geltungsbereich
----------------
+# Geltungsbereich
 
 Dieser Verhaltenskodex gilt auf allen unmittelbar mit der ZaPF in Verbindung
 stehenden Veranstaltungen. Im Speziellen gilt er auf allen ZaPFen und durch
@@ -77,7 +69,6 @@ Funktion ausüben. Mit der Anmeldung zu einer entsprechenden Veranstaltung,
 spätestens jedoch mit dem Erscheinen, stimmst du zu, dich an diesen
 Verhaltenskodex zu halten.
 
-Änderungshistorie
------------------
+# Änderungshistorie
 
 Verabschiedet am 13. November 2022 auf der ZaPF in Hamburg.
