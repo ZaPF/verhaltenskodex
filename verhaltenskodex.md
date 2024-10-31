@@ -25,7 +25,8 @@ miteinander. Beispielhaft als nicht abgeschlossene Liste:
   Gruppen, sich aktiv einzubringen.
 - Wir kommunizieren respektvoll miteinander, auch wenn wir verschiedener Meinung
   sind.
-- Wir lassen einander ausreden und hören uns zu.
+- Wir bemühen uns bewusst darum, einander ausreden zu lassen und uns gegenseitig
+  zuzuhören.
 - Wir gehen miteinander empathisch um.
 - Wir akzeptieren, wenn Menschen Fragen nicht beantworten wollen.
 - Wir haben körperlichen Kontakt nur mit expliziter Zustimmung; Nichtzustimmung
