@@ -30,6 +30,12 @@ miteinander. Beispielhaft als nicht abgeschlossene Liste:
 - Wir akzeptieren, wenn Menschen Fragen nicht beantworten wollen.
 - Wir haben körperlichen Kontakt nur mit expliziter Zustimmung; Nichtzustimmung
   wird ohne Begründung akzeptiert und nicht hinterfragt.
+  - Wir respektieren, dass bereits gegebene Zustimmung jederzeit widerrufen
+    werden kann.
+  - Wir nehmen Zustimmung grundsätzlich verbal an. Non-verbal kann eine Person
+    nur zustimmen, wenn sie Kommunikation über non-verbalen Konsens von sich aus
+    explizit und unmissverständlich anbietet, z.B. durch sichtbare Kennzeichnung
+    auf dem Tagungsausweis.
 - Wir schaffen Sicherheit und diskutieren in einer entspannten Atmosphäre
   miteinander.
 - Wir ermutigen rücksichtsvolles Fragen.
