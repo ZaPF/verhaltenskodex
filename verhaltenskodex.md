@@ -80,4 +80,7 @@ Verhaltenskodex zu halten.
 
 Verabschiedet am 13. November 2022 auf der ZaPF in Hamburg.
 
-Geändert auf der Sommer-ZaPF 2023 in Berlin.
+Geändert auf der:
+
+- Sommer-ZaPF 2023 in Berlin,
+- und auf der Sommer-ZaPf 2024 in Kiel.
